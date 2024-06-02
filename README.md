@@ -65,10 +65,5 @@
 
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=antonio-paulino&show_icons=true&locale=en" alt="antonio-paulino" />
-</p>
-
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-paulino&" alt="antonio-paulino" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-paulino&" alt="antonio-paulino" />
 </p>

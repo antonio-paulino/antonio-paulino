@@ -4,7 +4,7 @@
   <a href="https://linkedin.com/in/antónio-paulino-6117a8259" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="antónio-paulino-6117a8259" height="40" width="40" />
   </a>
-  <a href="mailto:your-email@example.com" target="blank">
+  <a href="mailto:antonioppaulino2@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="email" height="40" width="40" />
   </a>
 </p>

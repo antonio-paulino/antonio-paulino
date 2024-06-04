@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm António</h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/antonio-paulinoo" target="blank">
+  <a href="https://www.linkedin.com/in/antonio-paulinoo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="antonio-paulinoo" height="40" width="40" />
   </a>
   <a href="mailto:antonioppaulino2@gmail.com" target="blank">

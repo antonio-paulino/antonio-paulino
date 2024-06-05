@@ -110,12 +110,12 @@
 
 <h3 align="center">Stats:</h3>
 
-<p align = "center">
+<p href="https://github.com/antonio-paulino" target="_blank" rel="noreferrer" align = "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-paulino&theme=nord" alt="antonio-paulino" />
 </p>
 
 
-<p align = "center">
+<p href="https://github.com/antonio-paulino" target="_blank" rel="noreferrer" align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-paulino&theme=nord" alt="antonio-paulino" />
 </p>
 

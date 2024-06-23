@@ -108,7 +108,11 @@
   </a>
 </div>
 
-
+<div align="center"> 
+  <a href="https://github.com/antonio-paulino/yamlify" target="_blank" rel="noreferrer"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonio-paulino&repo=yamlify&theme=nord"/> 
+  </a> 
+</div>
 
 
 <h3 align="center">Stats:</h3>

@@ -88,8 +88,8 @@
 <h3 align="center">Projects:</h3>
 
 <div align="center">
-  <a href="https://github.com/antonio-paulino/sshclient-kotlin" target="_blank" rel="noreferrer"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonio-paulino&repo=sshclient-kotlin&theme=nord"/> 
+  <a href="https://github.com/antonio-paulino/sshclient" target="_blank" rel="noreferrer"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonio-paulino&repo=sshclient&theme=nord"/> 
   </a> 
   
   <a href="https://github.com/antonio-paulino/ComposeGo" target="_blank" rel="noreferrer"> 

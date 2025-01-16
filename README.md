@@ -127,7 +127,7 @@
 
 
 <p href="https://github.com/antonio-paulino" target="_blank" rel="noreferrer" align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonio-paulino&show_icons=false&theme=nord&include_all_commits" alt="antonio-paulino" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antonio-paulino&show_icons=true&theme=nord&include_all_commits=true" alt="antonio-paulino" />
 </p>
 
 

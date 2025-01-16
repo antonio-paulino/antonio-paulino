@@ -84,7 +84,7 @@
   </a>
 </p>
 
-
+<!--
 <h3 align="center">Projects:</h3>
 
 <div align="center">
@@ -117,21 +117,18 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonio-paulino&repo=SECA&theme=nord"/> 
   </a>
 </div>
-
+-->
 
 <h3 align="center">Stats:</h3>
 
-<div align="center"> 
   
-  <a href="https://github.com/antonio-paulino" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-paulino&theme=nord&layout=normal&height=100" alt="antonio-paulino" />
-  </a>
+<p href="https://github.com/antonio-paulino" target="_blank" rel="noreferrer" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-paulino&theme=nord&layout=normal&height=100" alt="antonio-paulino" />
+</p>
 
 
-  <a href="https://github.com/antonio-paulino" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=antonio-paulino&show_icons=true&theme=nord&include_all_commits=true&hide_rank=true&line_height=30&card_width=150" alt="antonio-paulino" />
-  </a>
-
-</div>
+<p href="https://github.com/antonio-paulino" target="_blank" rel="noreferrer" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antonio-paulino&show_icons=true&theme=nord&include_all_commits=true&rank_icon=github&line_height=30&card_width=150" alt="antonio-paulino" />
+</p>
 
 

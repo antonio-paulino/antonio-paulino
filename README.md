@@ -121,14 +121,16 @@
 
 <h3 align="center">Stats:</h3>
 
-  
-<p href="https://github.com/antonio-paulino" target="_blank" rel="noreferrer" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-paulino&theme=nord&layout=normal&height=100" alt="antonio-paulino" />
+<p align="center">
+  <a href="https://github.com/antonio-paulino" target="_blank" rel="noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-paulino&theme=nord&layout=normal" alt="antonio-paulino" />
+  </a>
 </p>
 
-
-<p href="https://github.com/antonio-paulino" target="_blank" rel="noreferrer" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonio-paulino&show_icons=true&theme=nord&include_all_commits=true&rank_icon=github&line_height=30&card_width=150" alt="antonio-paulino" />
+<p align="center">
+  <a href="https://github.com/antonio-paulino" target="_blank" rel="noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=antonio-paulino&show_icons=true&theme=nord&include_all_commits=true&rank_icon=github&line_height=30&card_width=150" alt="antonio-paulino" />
+  </a>
 </p>
 
 

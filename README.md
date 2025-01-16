@@ -92,8 +92,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonio-paulino&repo=sshclient&theme=nord"/> 
   </a> 
   
-  <a href="https://github.com/antonio-paulino/ComposeGo" target="_blank" rel="noreferrer"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonio-paulino&repo=ComposeGo&theme=nord"/> 
+  <a href="https://github.com/antonio-paulino/Instant-Messaging" target="_blank" rel="noreferrer"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonio-paulino&repo=Instant-Messaging&theme=nord"/> 
   </a> 
 </div>
 
@@ -103,8 +103,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonio-paulino&repo=AccessControlSystem&theme=nord"/> 
   </a>
   
-  <a href="https://github.com/antonio-paulino/SECA" target="_blank" rel="noreferrer"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonio-paulino&repo=SECA&theme=nord"/> 
+  <a href="https://github.com/antonio-paulino/Chimp" target="_blank" rel="noreferrer"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonio-paulino&repo=Chimp&theme=nord"/> 
   </a>
 </div>
 
@@ -112,6 +112,9 @@
   <a href="https://github.com/antonio-paulino/yamlify" target="_blank" rel="noreferrer"> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonio-paulino&repo=yamlify&theme=nord"/> 
   </a> 
+  <a href="https://github.com/antonio-paulino/SECA" target="_blank" rel="noreferrer"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonio-paulino&repo=SECA&theme=nord"/> 
+  </a>
 </div>
 
 
